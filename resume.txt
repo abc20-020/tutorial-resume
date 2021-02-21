@@ -13,7 +13,7 @@
         JOB TITLE • COMPANY • DATES FROM – TO
         Think about the size of the teams you've led, the number of projects you've managed successfully or the number of articles you've written.
         </p>
-    
+
     <h3>skills</h3>
     <p>Explain what you're especially good at. What sets you apart? Use your own language – not jargon.</p>
 
@@ -31,5 +31,5 @@
         EMAIL ADDRESS
         TWITTER HANDLE
         TELEPHONE NO.
-        LINKEDIN URL   
+        LINKEDIN URL
     </footer>
